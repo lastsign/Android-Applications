@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Geo App</string>
+    <string name="best_wishes">Best Wishes</string>
+    <string name="register_app">Register App</string>
+    <string name="sing_in">Sing in</string>
+    <string name="please_login">Please Login</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sing_up">Sing up</string>
+</resources>

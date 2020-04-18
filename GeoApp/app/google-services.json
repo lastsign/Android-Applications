@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "929277659408",
+    "firebase_url": "https://geoapp-a3abc.firebaseio.com",
+    "project_id": "geoapp-a3abc",
+    "storage_bucket": "geoapp-a3abc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929277659408:android:b889dd887dcfc95db2fd95",
+        "android_client_info": {
+          "package_name": "com.example.geoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929277659408-2nods7s7047ddui416qopkjdblnf5dss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.geoapp",
+            "certificate_hash": "d5d18c3af8e6bac34e8bdb9a8509c311a007a55a"
+          }
+        },
+        {
+          "client_id": "929277659408-hmosn1q0u5cqlnbpvsnh0mvv8deahphk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo_2ycsruL8EqZugnwHAgwMxoI_JfwbOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929277659408-hmosn1q0u5cqlnbpvsnh0mvv8deahphk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

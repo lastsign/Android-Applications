@@ -1,0 +1,2 @@
+rootProject.name='OLYMPUS'
+include ':app'
